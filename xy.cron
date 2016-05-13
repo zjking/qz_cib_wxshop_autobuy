@@ -1,0 +1,1 @@
+0 0 * * *   /www/web/xyyh/xy.sh >/www/web/xyyh/xy.log
